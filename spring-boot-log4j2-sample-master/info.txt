@@ -1,0 +1,4 @@
+Sping boot project:
+
+1. Create the logs files using log4j2 by time wise
+2.Delete the logs with respect to time (Eg: 2D)
